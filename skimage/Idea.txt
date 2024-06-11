@@ -1,9 +1,0 @@
-Load & Display image
-Pixels and Range of Pixels
-Split Image in RGB
-Convert into Gray Scale
-Gray Scale into RGB
-Image Histogram
-Histogram Matching
-Histogram Equalization
-Resize Images
